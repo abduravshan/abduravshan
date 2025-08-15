@@ -21,7 +21,7 @@ class PythonDeveloper:
         self.name = "Abduravshan"
         self.role = "Backend Developer"
         self.location = "Tashkent, Uzbekistan 🇺🇿"
-        self.languages = ["Python", "JavaScript", "SQL"]
+        self.languages = ["Python",  "SQL"]
         self.passion = "Building scalable backend systems"
     
     def get_current_focus(self):
