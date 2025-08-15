@@ -95,82 +95,8 @@ developer = PythonDeveloper()
 
 </div>
 
-## 🚀 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 **E-commerce Backend API**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-
-**Xususiyatlari:**
-- 🔐 JWT Authentication
-- 💳 Payment Gateway Integration  
-- 📱 RESTful API Design
-- ⚡ Caching with Redis
-- 🧪 100% Test Coverage
-
-[📂 **View Project**](https://github.com/abduravshan/ecommerce-api)
-
 </td>
 <td width="50%">
-
-### ⚡ **Real-time Chat System**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
-**Xususiyatlari:**
-- 🚀 WebSocket Connections
-- 📊 Real-time Analytics
-- 🔄 Auto Scaling
-- 🛡️ Rate Limiting
-- 📈 Message Queue
-
-[📂 **View Project**](https://github.com/abduravshan/realtime-chat)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📋 **Task Management API**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Celery](https://img.shields.io/badge/-Celery-37B24D?style=flat-square&logo=celery)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-
-**Xususiyatlari:**
-- 🔄 Background Tasks
-- 📧 Email Notifications
-- 👥 Team Collaboration
-- 📊 Progress Tracking
-- 🔍 Advanced Filtering
-
-[📂 **View Project**](https://github.com/abduravshan/task-manager)
-
-</td>
-<td width="50%">
-
-### 🏦 **Banking System API**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Security](https://img.shields.io/badge/-Security-FF6B6B?style=flat-square&logo=security)
-
-**Xususiyatlari:**
-- 🔒 Bank-grade Security
-- 💰 Transaction Processing
-- 📱 Mobile API Support
-- 🧾 Financial Reports
-- 🔐 2FA Integration
-
-[📂 **View Project**](https://github.com/abduravshan/banking-api)
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
